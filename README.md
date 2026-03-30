@@ -20,8 +20,6 @@ I am passionate about machine learning, biostatistics and applied statistics.
 
 ### 🎓 Education
 
-MSc in Mathematical Engineering – Statistical Learning (ongoing)
-Politecnico di Milano, Milan, Italy
+MSc in Mathematical Engineering – Statistical Learning @ Politecnico di Milano, Milan, Italy
 
-BSc in Mathematical Engineering
-Politecnico di Milano, Milan, Italy
+BSc in Mathematical Engineering @ Politecnico di Milano, Milan, Italy
