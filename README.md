@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently enrolled in a MSc in Mathematical Engineering focusing on Statistical Learning at Politecnico di Milano, where I am broadening my knowledge especially in data science.
+I am passionate about machine learning, biostatistics and applied statistics.
+
+### 🎓 Education
+
+MSc in Mathematical Engineering – Statistical Learning (ongoing)
+Politecnico di Milano, Milan, Italy
+
+BSc in Mathematical Engineering
+Politecnico di Milano, Milan, Italy
